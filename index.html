@@ -1,15 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lier document axios a json</title>
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <link rel="stylesheet" href="./public/css/index.css" />
-    <script type="module" src="./public/js/app.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>lier document axios a json</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <link rel="stylesheet" href="./public/css/index.css" />
+  <script type="module" src="./public/js/app.js"></script>
 </head>
+
 <body>
-    <h1 class="title">AJAX API Intro</h1>
-    <h2> la hero API</h2>
+  <h2> la hero API</h2>
+
+
+  <div id="hero-details-popup" class="is-hidden">
+    <button id="close-hero-popup" class="btn">x</button>
+  </div>
+
+  <header id="header-main">
+    <button id="btn-get-all" class="btn"> Show Hero !</button>
+    <hr>
+    <div id="form-post-hero" class="form">
+      <h2 class="title">Post new Hero !</h2>
+      <input id="hero_name" class="input" name="hero_name" type="text" class="input" placeholder="Hero Name" value="SuperJo">
+      <input id="hero_id" class="input" name="hero_id" type="text" class="input" placeholder="Hero Id" value="1">
+      <button class="btn">ok</button>
+    </div>
+    <hr>
+
+  </header>
+
+  <main id="main-content">
+    <ul id="list-all-heroes"></ul>
+  </main>
+
+
 </body>
+
 </html>

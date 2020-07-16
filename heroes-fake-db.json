@@ -49,153 +49,6 @@
       }
     },
     {
-      "id": 2,
-      "name": "Abe Sapien",
-      "powerstats": {
-        "intelligence": "88",
-        "strength": "28",
-        "speed": "35",
-        "durability": "65",
-        "power": "100",
-        "combat": "85"
-      },
-      "biography": {
-        "full-name": "Abraham Sapien",
-        "alter-egos": "No alter egos found.",
-        "aliases": [
-          "Langdon Everett Caul",
-          "Abraham Sapien",
-          "Langdon Caul"
-        ],
-        "place-of-birth": "-",
-        "first-appearance": "Hellboy: Seed of Destruction (1993)",
-        "publisher": "Dark Horse Comics",
-        "alignment": "good"
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Icthyo Sapien",
-        "height": [
-          "6'3",
-          "191 cm"
-        ],
-        "weight": [
-          "145 lb",
-          "65 kg"
-        ],
-        "eye-color": "Blue",
-        "hair-color": "No Hair"
-      },
-      "work": {
-        "occupation": "Paranormal Investigator",
-        "base": "-"
-      },
-      "connections": {
-        "group-affiliation": "Bureau for Paranormal Research and Defense",
-        "relatives": "Edith Howard (wife, deceased)"
-      },
-      "image": {
-        "url": "https://www.superherodb.com/pictures2/portraits/10/100/956.jpg"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Abin Sur",
-      "powerstats": {
-        "intelligence": "50",
-        "strength": "90",
-        "speed": "53",
-        "durability": "64",
-        "power": "99",
-        "combat": "65"
-      },
-      "biography": {
-        "full-name": "",
-        "alter-egos": "No alter egos found.",
-        "aliases": [
-          "Lagzia"
-        ],
-        "place-of-birth": "Ungara",
-        "first-appearance": "Showcase #22 (October, 1959)",
-        "publisher": "DC Comics",
-        "alignment": "good"
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Ungaran",
-        "height": [
-          "6'1",
-          "185 cm"
-        ],
-        "weight": [
-          "200 lb",
-          "90 kg"
-        ],
-        "eye-color": "Blue",
-        "hair-color": "No Hair"
-      },
-      "work": {
-        "occupation": "Green Lantern, former history professor",
-        "base": "Oa"
-      },
-      "connections": {
-        "group-affiliation": "Green Lantern Corps, Black Lantern Corps",
-        "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
-      },
-      "image": {
-        "url": "https://www.superherodb.com/pictures2/portraits/10/100/1460.jpg"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Abomination",
-      "powerstats": {
-        "intelligence": "63",
-        "strength": "80",
-        "speed": "53",
-        "durability": "90",
-        "power": "62",
-        "combat": "95"
-      },
-      "biography": {
-        "full-name": "Emil Blonsky",
-        "alter-egos": "No alter egos found.",
-        "aliases": [
-          "Agent R-7",
-          "Ravager of Worlds"
-        ],
-        "place-of-birth": "Zagreb, Yugoslavia",
-        "first-appearance": "Tales to Astonish #90",
-        "publisher": "Marvel Comics",
-        "alignment": "bad"
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human / Radiation",
-        "height": [
-          "6'8",
-          "203 cm"
-        ],
-        "weight": [
-          "980 lb",
-          "441 kg"
-        ],
-        "eye-color": "Green",
-        "hair-color": "No Hair"
-      },
-      "work": {
-        "occupation": "Ex-Spy",
-        "base": "Mobile"
-      },
-      "connections": {
-        "group-affiliation": "former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten",
-        "relatives": "Nadia Dornova Blonsky (wife, separated)"
-      },
-      "image": {
-        "url": "https://www.superherodb.com/pictures2/portraits/10/100/1.jpg"
-      }
-    },
-    {
       "id": 5,
       "name": "Abraxas",
       "powerstats": {
@@ -294,55 +147,6 @@
       },
       "image": {
         "url": "https://www.superherodb.com/pictures2/portraits/10/100/1448.jpg"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Adam Monroe",
-      "powerstats": {
-        "intelligence": "63",
-        "strength": "10",
-        "speed": "12",
-        "durability": "100",
-        "power": "100",
-        "combat": "64"
-      },
-      "biography": {
-        "full-name": "",
-        "alter-egos": "No alter egos found.",
-        "aliases": [
-          "Takezo Kensei",
-          "Richard Sanders"
-        ],
-        "place-of-birth": "-",
-        "first-appearance": "Heroes S02E01 - Four Months Later...",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "null",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eye-color": "Blue",
-        "hair-color": "Blond"
-      },
-      "work": {
-        "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
-        "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
-      },
-      "connections": {
-        "group-affiliation": "-",
-        "relatives": "-"
-      },
-      "image": {
-        "url": "https://www.superherodb.com/pictures2/portraits/10/100/1026.jpg"
       }
     },
     {
@@ -36299,6 +36103,355 @@
         "combat": "0"
       },
       "id": 737
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 738
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 739
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 740
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 741
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 742
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 743
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 744
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 745
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 746
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 747
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 748
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 749
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 750
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 751
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 752
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 753
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 754
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 755
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 756
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 757
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 758
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 759
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 760
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 761
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 762
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 763
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 764
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 765
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 766
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 767
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 768
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 769
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 770
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 771
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 772
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 773
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 774
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 775
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 776
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 777
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 778
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 779
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 780
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 781
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 782
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 783
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 784
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 785
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 786
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 787
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 788
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 789
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 790
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 791
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 792
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 793
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 794
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 795
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 796
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 797
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 798
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 799
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 800
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 801
+    },
+    {
+      "hero_name": {},
+      "hero_id": {},
+      "id": 803
+    },
+    {
+      "hero_name": {},
+      "id": 804
+    },
+    {
+      "hero_name": {},
+      "id": 805
+    },
+    {
+      "hero_name": {},
+      "id": 806
+    },
+    {
+      "hero_name": {},
+      "id": 807
+    },
+    {
+      "name": "SuperJo",
+      "id": 808
+    },
+    {
+      "name": "SuperJo",
+      "id": 809
     }
   ]
 }

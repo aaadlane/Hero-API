@@ -1,0 +1,14 @@
+#list-all-heroes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    list-style-type: none;
+    grid-gap: 20px;
+    padding-top: 40px;
+}
+
+#list-all-heroes .hero {
+    height: 180px;
+    border-radius: .3rem;
+    box-shadow: 0px 1.5px 2.2px 1px var(--color-dark);
+    padding: 20px;
+}

@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-color: var(--color-white);
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.title {
+  margin: 5px 0 10px;
+}
+
+.is-hidden {
+  opacity: 0;
+  z-index: -1;
+}
+
+#header-main {
+  background-color: var(--color-white);
+  border-bottom: 2px solid var(--color-dark);
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  z-index: 9;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+#main-content {
+  position: relative;
+  top: 100px;
+}
