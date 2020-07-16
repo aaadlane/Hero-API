@@ -27,6 +27,18 @@
       <input id="hero_id" class="input" name="hero_id" type="text" class="input" placeholder="Hero Id" value="1">
       <button class="btn">ok</button>
     </div>
+
+    <label for="hero-choice">Choose a filter for your hero:</label>
+<input list="hero-list" id="hero-choice" name="hero-choice" />
+
+<datalist id="hero-list">
+    <option value="ID > croissant">
+    <option value="ID > décroissant">
+    <option value="Nom > de A à Z">
+    <option value="Nom > de Z à A">
+
+</datalist>
+<button class="btnOrder">Submit</button>
     <hr>
 
   </header>
