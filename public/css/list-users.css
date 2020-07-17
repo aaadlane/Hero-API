@@ -7,8 +7,9 @@
 }
 
 #list-all-heroes .hero {
-    height: 180px;
+    height: 500px;
     border-radius: .3rem;
     box-shadow: 0px 1.5px 2.2px 1px var(--color-dark);
     padding: 20px;
+    border: 2px ridge black;
 }

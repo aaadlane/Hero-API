@@ -35853,54 +35853,6 @@
       }
     },
     {
-      "id": 728,
-      "name": "Ymir",
-      "powerstats": {
-        "intelligence": "50",
-        "strength": "100",
-        "speed": "27",
-        "durability": "100",
-        "power": "98",
-        "combat": "28"
-      },
-      "biography": {
-        "full-name": "Ymir",
-        "alter-egos": "No alter egos found.",
-        "aliases": [
-          "Aurgelmir"
-        ],
-        "place-of-birth": "Niffleheim",
-        "first-appearance": "JOURNEY INTO MYSTERY #97",
-        "publisher": "Marvel Comics",
-        "alignment": "good"
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Frost Giant",
-        "height": [
-          "1000",
-          "304.8 meters"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eye-color": "White",
-        "hair-color": "No Hair"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "Niffleheim"
-      },
-      "connections": {
-        "group-affiliation": "-",
-        "relatives": "Utgard-Loki, Loki, and the race of Frost Giants (descendants)"
-      },
-      "image": {
-        "url": "https://www.superherodb.com/pictures2/portraits/10/100/179.jpg"
-      }
-    },
-    {
       "id": 729,
       "name": "Yoda",
       "powerstats": {
@@ -36043,78 +35995,6 @@
       "image": {
         "url": "https://www.superherodb.com/pictures2/portraits/10/100/1384.jpg"
       }
-    },
-    {
-      "name": "Titi",
-      "powerstats": {
-        "intelligence": "81",
-        "strength": "100",
-        "speed": "42",
-        "durability": "100",
-        "power": "40",
-        "combat": "70"
-      },
-      "id": 733
-    },
-    {
-      "name": "Super codeur",
-      "powerstats": {
-        "intelligence": "100",
-        "strength": "0",
-        "speed": "100",
-        "durability": "100",
-        "power": "100",
-        "combat": "0"
-      },
-      "id": 734
-    },
-    {
-      "name": "Super codeur",
-      "powerstats": {
-        "intelligence": "0",
-        "strength": "0",
-        "speed": "0",
-        "durability": "0",
-        "power": "0",
-        "combat": "0"
-      },
-      "id": 735
-    },
-    {
-      "name": "Super codeur",
-      "powerstats": {
-        "intelligence": "100",
-        "strength": "0",
-        "speed": "100",
-        "durability": "100",
-        "power": "100",
-        "combat": "0"
-      },
-      "id": 736
-    },
-    {
-      "name": "Super codeur",
-      "powerstats": {
-        "intelligence": "100",
-        "strength": "0",
-        "speed": "100",
-        "durability": "100",
-        "power": "100",
-        "combat": "0"
-      },
-      "id": 737
-    },
-    {
-      "hero_name": {},
-      "id": 804
-    },
-    {
-      "hero_name": {},
-      "id": 805
-    },
-    {
-      "name": "SuperJo",
-      "id": 809
     }
   ]
 }

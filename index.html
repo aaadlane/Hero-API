@@ -11,7 +11,8 @@
 </head>
 
 <body>
-  <h2> la hero API</h2>
+
+<div class="hero-wrapper">
 
 
   <div id="hero-details-popup" class="is-hidden">
@@ -19,25 +20,24 @@
   </div>
 
   <header id="header-main">
+    <h2 class="title">La Hero API!</h2>
     <button id="btn-get-all" class="btn"> Show Hero !</button>
     <hr>
     <div id="form-post-hero" class="form">
-      <h2 class="title">Post new Hero !</h2>
-      <input id="hero_name" class="input" name="hero_name" type="text" class="input" placeholder="Hero Name" value="SuperJo">
-      <input id="hero_id" class="input" name="hero_id" type="text" class="input" placeholder="Hero Id" value="1">
+      <input id="hero_name" class="input" name="hero_name" type="text"  placeholder="HerWo Name" value="SuperJo">
+      <input id="hero_id" class="input" name="hero_id" type="text" placeholder="Hero Id" value="1">
       <button class="btn">ok</button>
     </div>
 
-    <label for="hero-choice">Choose a filter for your hero:</label>
-<input list="hero-list" id="hero-choice" name="hero-choice" />
+   
 
-<datalist id="hero-list">
-    <option value="ID > croissant">
-    <option value="ID > décroissant">
-    <option value="Nom > de A à Z">
-    <option value="Nom > de Z à A">
+<select id="hero-list" name="filtre">
+    <option value="croissant">croissant</option>
+    <option value="decroissant">décroissant</option>
+    <option value="A-Z">A à Z</option>
+    <option value="Z-A">Z à A</option>
+</select>
 
-</datalist>
 <button class="btnOrder">Submit</button>
     <hr>
 
@@ -47,7 +47,7 @@
     <ul id="list-all-heroes"></ul>
   </main>
 
-
+</div>
 </body>
 
 </html>
